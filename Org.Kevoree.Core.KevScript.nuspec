@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
     <metadata>
         <id>Org.Kevoree.Core.KevScript</id>
-        <version>5.2.5</version>
+        <version>5.2.6</version>
         <title>KevScript</title>
         <authors>Manuel Leduc</authors>
         <owners>Kevoree</owners>
