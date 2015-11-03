@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
     <metadata>
         <id>Org.Kevoree.Core.KevScript</id>
-        <version>5.2.18</version>
+        <version>5.2.22</version>
         <title>KevScript</title>
         <authors>Manuel Leduc</authors>
         <owners>Kevoree</owners>
@@ -19,6 +19,6 @@
         </dependencies>
     </metadata>
     <files>
-        <file src="KevScript.dll" target="lib\KevScript.dll" />
+        <file src="lib\KevScript.dll" target="lib\KevScript.dll" />
     </files>
 </package>

@@ -1,1 +1,0 @@
-ikvmc -target:library -reference:KevoreeModel.dll KevScript.jar
