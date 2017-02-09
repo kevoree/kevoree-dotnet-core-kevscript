@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
     <metadata>
         <id>Org.Kevoree.Core.KevScript</id>
-        <version>5.2.22</version>
+        <version>5.4.2</version>
         <title>KevScript</title>
         <authors>Manuel Leduc</authors>
         <owners>Kevoree</owners>
@@ -11,14 +11,14 @@
         <iconUrl>https://avatars3.githubusercontent.com/u/5556542?v=3&amp;s=200</iconUrl>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
         <description>https://github.com/dukeboard/kevoree/tree/master/kevoree-core/org.kevoree.kevscript compiled in .net using ikvm</description>
-        <releaseNotes>Version 5.2.5</releaseNotes>
+        <releaseNotes>Version 5.4.2</releaseNotes>
         <tags>Kevoree Kevscript</tags>
         <dependencies>
-            <dependency id="IKVM" version="[7.2.4630.5]" />
-            <dependency id="Org.Kevoree.Core.Model" version="5.2.5" />
+            <dependency id="IKVM" version="[8.1.5717.0]" />
+            <dependency id="Org.Kevoree.Core.Model" version="5.4.7" />
         </dependencies>
     </metadata>
     <files>
-        <file src="lib\KevScript.dll" target="lib\KevScript.dll" />
+        <file src="lib/KevScript.dll" target="lib/KevScript.dll" />
     </files>
 </package>
